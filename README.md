@@ -52,7 +52,7 @@ Welcome to Hodhod, an innovative file transfer and chat application designed to 
 - **Cross-Platform**: Initially designed for computers and Windows OS.
 
 ## Installation
-## Installation
+
 
 ### For Windows Users
 
