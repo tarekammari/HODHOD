@@ -1,11 +1,10 @@
-# <img src="resources/hodhod.png" alt="Screenshot of HODHOD" width="30" height="30"> HODHOD
+# <img src="https://github.com/tarekammari/HODHOD/blob/main/hodhod.png" alt="Screenshot of HODHOD" width="30" height="30"> HODHOD
 
 ## Table of Contents
 - [ HODHOD](#-hodhod)
       - [Video Demo: Watch Video](#video-demo-watch-video)
   - [Features](#features)
-  - [Installation](#installation)
-  - [Installation](#installation-1)
+  - [Installation](#installation)  
     - [For Windows Users](#for-windows-users)
     - [For macOS Users](#for-macos-users)
     - [For Linux Users](#for-linux-users)
