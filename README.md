@@ -56,7 +56,7 @@ Welcome to Hodhod, an innovative file transfer and chat application designed to 
 
 ### For Windows Users
 
-1. **Download the Installer**: Navigate to the [releases page](https://github.com/tarekammari//HODHOD) of Hodhod and download the latest version of the installer, [`HODHOD_setup_V1.1.4`](https://github.com/tarekammari//HODHOD).
+1. **Download the Installer**: Navigate to the [releases page](https://github.com/tarekammari//HODHOD) of Hodhod and download the latest version of the installer, [`HODHOD_setup_V1.1.4`](https://github.com/tarekammari/HODHOD/blob/main/HODHOD_setup_V1.1.4.exe).
 
 
 2. **Run the Installer**: Locate the downloaded `HODHOD_setup_V1.1.4` file in your Downloads folder (or wherever you saved it) and double-click it to run the installer.
