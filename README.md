@@ -50,6 +50,8 @@ Welcome to Hodhod, an innovative file transfer and chat application designed to 
 - **Cross-Platform**: Initially designed for computers and Windows OS.
 
 ## Installation
+
+- **Additional Requirements**: If you are using  `Windows XP, 7, or 8`, you need to install "Windows6.1-KB2999226-x86" before installing HODHOD.
 ## Installation
 
 ### For Windows Users
