@@ -118,7 +118,7 @@ _// (If applicable) Add instructions for Linux users._
 
 ## Contact
 
-<img src="resources/gmail.png" alt="Screenshot of HODHOD" width="30" height="25">   [Tarek AMMARI](mailto:tarekammari1@gmal.com)
+<img src="https://github.com/tarekammari/HODHOD/blob/main/gmail.png" alt="Screenshot of HODHOD" width="30" height="25">   [Tarek AMMARI](mailto:tarekammari1@gmal.com)
 
 ---
 
